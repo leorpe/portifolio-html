@@ -1,4 +1,4 @@
 # portifolio-html
-teste de portifolio em html
+Teste de portifolio em HTML.
 
-criado durante aula sobre HTML na alura
+Criado durante aula sobre HTML na Alura junho/2023.
